@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "DashMIN",
+  "name": "Dashboard admin",
   "icons": [
     {
       "src": "favicon.ico",
